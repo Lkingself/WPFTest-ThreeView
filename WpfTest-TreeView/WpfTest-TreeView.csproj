@@ -17,6 +17,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="PropertyChanged.Fody" Version="4.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Resource Include="Images\drive.png">
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </Resource>
